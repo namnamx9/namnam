@@ -1,0 +1,11 @@
+C:\Users\namhu\source\repos\QuanLyCafe_POS\QuanLyCafe_POS\obj\Debug\QuanLyCafe_POS.csproj.AssemblyReference.cache
+C:\Users\namhu\source\repos\QuanLyCafe_POS\QuanLyCafe_POS\obj\Debug\QuanLyCafe_POS.fLogin.resources
+C:\Users\namhu\source\repos\QuanLyCafe_POS\QuanLyCafe_POS\obj\Debug\QuanLyCafe_POS.Properties.Resources.resources
+C:\Users\namhu\source\repos\QuanLyCafe_POS\QuanLyCafe_POS\obj\Debug\QuanLyCafe_POS.csproj.GenerateResource.cache
+C:\Users\namhu\source\repos\QuanLyCafe_POS\QuanLyCafe_POS\obj\Debug\QuanLyCafe_POS.csproj.CoreCompileInputs.cache
+C:\Users\namhu\source\repos\QuanLyCafe_POS\QuanLyCafe_POS\bin\Debug\QuanLyCafe_POS.exe.config
+C:\Users\namhu\source\repos\QuanLyCafe_POS\QuanLyCafe_POS\bin\Debug\QuanLyCafe_POS.exe
+C:\Users\namhu\source\repos\QuanLyCafe_POS\QuanLyCafe_POS\bin\Debug\QuanLyCafe_POS.pdb
+C:\Users\namhu\source\repos\QuanLyCafe_POS\QuanLyCafe_POS\obj\Debug\QuanLyCafe_POS.exe
+C:\Users\namhu\source\repos\QuanLyCafe_POS\QuanLyCafe_POS\obj\Debug\QuanLyCafe_POS.pdb
+C:\Users\namhu\source\repos\QuanLyCafe_POS\QuanLyCafe_POS\obj\Debug\QuanLyCafe_POS.fMain.resources
